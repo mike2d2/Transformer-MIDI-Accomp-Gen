@@ -1,3 +1,7 @@
+# Summary
+
+Trains and tests a Transformer NN to generate MIDI accompaniments to go along with input MIDI accompaniments. Currently them model and data is set up to generate a drum sequence from melody. The preprocessing of the Lakh data turns the midi files into sequences of a given length tokenized with start, end, and padding tokens for the accompaniment inputs and drum labels. The sequence of tokenized midi melodies is used to train and test the network. FiLM genres can also be added and changed during generation.
+
 # CSCI-566-Project
 CSCI 566 Project - Team Deep House (Spring 2023)
 
