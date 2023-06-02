@@ -4,6 +4,10 @@ Trains and tests a Transformer NN to generate MIDI accompaniments to go along wi
 
 This code was created for CSCI 566 Final Project - Team Deep House (Spring 2023)
 
+## Paper
+
+Full paper can be found [here](https://github.com/mike2d2/Transformer-MIDI-Accomp-Gen/blob/main/Deep_Learning_Project_Final_Report.pdf)
+
 ## Downloading Data
 
 The dataset being used is the [Lakh MIDI Dataset](https://colinraffel.com/projects/lmd/). Specifically, we will use the LMD-matched subset, a collection of 45,000+ tracks spanning many genres that have been matched to entries in the "Million Song Dataset". To get started, download and extract the following data to the `data_raw/` directory:
