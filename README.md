@@ -8,6 +8,13 @@ This code was created for CSCI 566 Final Project - Team Deep House (Spring 2023)
 
 Full paper can be found [here](https://github.com/mike2d2/Transformer-MIDI-Accomp-Gen/blob/main/Deep_Learning_Project_Final_Report.pdf)
 
+## Audio Samples
+Here are a couple of audio samples created from drum MIDI
+
+[Audio Sample 1 (No FiLM Applied)](https://drive.google.com/file/d/1x6nMxHL5in6a8Xy_WZJMElSnfEi2HNKN/view?usp=share_link)
+
+[Audio Sample 2 (FiLM Applied)](https://drive.google.com/file/d/1RRqCsbITIEAaQnwx1kecm8XEN15vSjZd/view?usp=share_link)
+
 ## Downloading Data
 
 The dataset being used is the [Lakh MIDI Dataset](https://colinraffel.com/projects/lmd/). Specifically, we will use the LMD-matched subset, a collection of 45,000+ tracks spanning many genres that have been matched to entries in the "Million Song Dataset". To get started, download and extract the following data to the `data_raw/` directory:
